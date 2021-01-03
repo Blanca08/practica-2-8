@@ -8,3 +8,8 @@ p{
 .tachado{
     text-decoration: line-through;
 }
+.myclass{
+    text-decoration: mediumslateblue;
+    font-family: fantasy;
+    font-size :medium;
+}
